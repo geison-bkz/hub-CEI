@@ -1,7 +1,9 @@
 <script setup></script>
 
 <template>
-  <div class="text-3xl font-b underline">Hello world!</div>
+  <div class="p-4">
+    <router-view />
+  </div>
 </template>
 
 <style scoped></style>
