@@ -5,6 +5,14 @@
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "streetsidesoftware.code-spell-checker",
-    "streetsidesoftware.code-spell-checker-portuguese-brazilian"
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "formulahendry.code-runner",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "ritwickdey.LiveServer",
+    "PKief.material-icon-theme",
+    "MS-CEINTL.vscode-language-pack-pt-BR",
+    "natqe.reload",
+    "bradlc.vscode-tailwindcss"
   ]
 }
